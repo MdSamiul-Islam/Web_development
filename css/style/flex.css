@@ -1,0 +1,16 @@
+.parent{
+    background-color: aquamarine;
+    margin: 25px;
+    padding: 10px;
+    border-radius: px solid red;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+.child{
+    border: 1px solid rgb(151, 107, 233);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+
+
+}
